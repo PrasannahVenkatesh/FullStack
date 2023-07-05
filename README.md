@@ -13,7 +13,7 @@ Once application is successfully compiled, Use localhost:4200.
 Run - Java Application: 
 
 1. Right click on the project and click run as
-2. Click Run Configuration
+2. Click Run Configuration and click run
 
 Once application is succesfully compiled, Use localhost:8080. 
 
