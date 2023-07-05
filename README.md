@@ -1,3 +1,25 @@
+# Steps to bring Up application
+
+The project has Angular as FrontEnd and Java Application as Backend and MongoDB as Database. 
+
+Run - Angular Application: 
+
+1. Right click on the uinew folder and click Show in Local Terminal and then click Terminal.
+2. Type command " npm i " and press enter
+3. Type command " npm start " and press enter
+
+Once application is successfully compiled, Use localhost:4200. 
+
+Run - Java Application: 
+
+1. Right click on the project and click run as
+2. Click Run Configuration
+
+Once application is succesfully compiled, Use localhost:8080. 
+
+For MongoDB, Please make sure you have succesfully installed mongodb in your desktop and it started running. 
+You can use " mongod " command in your command prompt to start mongodb server
+
 # Ui
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
