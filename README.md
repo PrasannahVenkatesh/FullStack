@@ -18,7 +18,7 @@ Run - Java Application:
 Once application is succesfully compiled, Use localhost:8080. 
 
 For MongoDB, Please make sure you have succesfully installed mongodb in your desktop and it started running. 
-You can use " mongod " command in your command prompt to start mongodb server
+You can use " mongod " command in your command prompt to start mongodb server.
 
 # Ui
 
